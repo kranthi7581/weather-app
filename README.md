@@ -6,9 +6,7 @@
 
 ---
 **ScreenShots**
-![Alt Text]()
-
-
+![Alt Text](https://github.com/kranthi7581/weather-app/blob/main/weather.png)
 
 ---
 
